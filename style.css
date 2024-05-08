@@ -7,9 +7,11 @@ header {
 
 .lista-navegación{
     display: flex;
+    align-items: center;
 }
 
 .linkedin-icon{
+    color: red;
     height: 40px;
 }
 
