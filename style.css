@@ -1,0 +1,18 @@
+header {
+    background-color: var(--azul-claro);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.lista-navegación{
+    display: flex;
+}
+
+.linkedin-icon{
+    height: 40px;
+}
+
+.descarga-icon{
+    height: 20px;
+}
